@@ -1,0 +1,11 @@
+{
+	"name" : "SocialNetworkTimeMachine",
+	"description" : "App that contains all your LinkedIn, Twitter, Youtube, Facebook content.",
+	"version" : "1.0.0",
+	"private" : "true",
+	"dependencies" : {
+		"express" : "3.x",
+		"request" : "2.x",
+		"mongodb": "*"
+	}
+}
